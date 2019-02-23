@@ -30,3 +30,15 @@ C:\proyectos\Platzi\ASPNETCore\obj\Debug\netcoreapp2.1\ASPNETCore.Views.pdb
 C:\proyectos\Platzi\ASPNETCore\obj\Debug\netcoreapp2.1\ASPNETCore.dll
 C:\proyectos\Platzi\ASPNETCore\obj\Debug\netcoreapp2.1\ASPNETCore.pdb
 C:\proyectos\Platzi\ASPNETCore\obj\Debug\netcoreapp2.1\ASPNETCore.csproj.CopyComplete
+C:\proyectos\Platzi\ASPNETCore\obj\Debug\netcoreapp2.1\Razor\Views\Alumno\Index.g.cshtml.cs
+C:\proyectos\Platzi\ASPNETCore\obj\Debug\netcoreapp2.1\Razor\Views\Alumno\MultiAlumno.g.cshtml.cs
+C:\proyectos\Platzi\ASPNETCore\obj\Debug\netcoreapp2.1\Razor\Views\Asignatura\Index.g.cshtml.cs
+C:\proyectos\Platzi\ASPNETCore\obj\Debug\netcoreapp2.1\Razor\Views\Asignatura\MultiAsignatura.g.cshtml.cs
+C:\proyectos\Platzi\ASPNETCore\obj\Debug\netcoreapp2.1\Razor\Views\Curso\Create.g.cshtml.cs
+C:\proyectos\Platzi\ASPNETCore\obj\Debug\netcoreapp2.1\Razor\Views\Curso\EditarCurso.g.cshtml.cs
+C:\proyectos\Platzi\ASPNETCore\obj\Debug\netcoreapp2.1\Razor\Views\Curso\Index.g.cshtml.cs
+C:\proyectos\Platzi\ASPNETCore\obj\Debug\netcoreapp2.1\Razor\Views\Curso\MultiCurso.g.cshtml.cs
+C:\proyectos\Platzi\ASPNETCore\obj\Debug\netcoreapp2.1\Razor\Views\Escuela\Index.g.cshtml.cs
+C:\proyectos\Platzi\ASPNETCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ListaObjetoEscuela.g.cshtml.cs
+C:\proyectos\Platzi\ASPNETCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ObjetoEscuelaSimple.g.cshtml.cs
+C:\proyectos\Platzi\ASPNETCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Simple.g.cshtml.cs
